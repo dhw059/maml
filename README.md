@@ -85,36 +85,7 @@ See [API docs](https://materialsvirtuallab.github.io/maml/maml.html).
 # Citing
 
 ```txt
-@misc{
-    maml,
-    author = {Chen, Chi and Zuo, Yunxing, Ye, Weike, Ji, Qi and Ong, Shyue Ping},
-    title = {{Maml - materials machine learning package}},
-    year = {2020},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/materialsvirtuallab/maml}},
-}
+Graph neural networks-based transfer learning framework for enhanced predictive performance on diverse small and large materials datasets
 ```
 
-For the ML-IAP package (`maml.pes`), please cite::
 
-```txt
-Zuo, Y.; Chen, C.; Li, X.; Deng, Z.; Chen, Y.; Behler, J.; Csányi, G.; Shapeev, A. V.; Thompson, A. P.;
-Wood, M. A.; Ong, S. P. Performance and Cost Assessment of Machine Learning Interatomic Potentials.
-J. Phys. Chem. A 2020, 124 (4), 731–745. https://doi.org/10.1021/acs.jpca.9b08723.
-```
-
-For the BOWSR package (`maml.bowsr`), please cite::
-
-```txt
-Zuo, Y.; Qin, M.; Chen, C.; Ye, W.; Li, X.; Luo, J.; Ong, S. P. Accelerating Materials Discovery with Bayesian
-Optimization and Graph Deep Learning. Materials Today 2021, 51, 126–135.
-https://doi.org/10.1016/j.mattod.2021.08.012.
-```
-
-For the AtomSets model (`maml.models.AtomSets`), please cite::
-
-```txt
-Chen, C.; Ong, S. P. AtomSets as a hierarchical transfer learning framework for small and large materials
-datasets. Npj Comput. Mater. 2021, 7, 173. https://doi.org/10.1038/s41524-021-00639-w
-```
